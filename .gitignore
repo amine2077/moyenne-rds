@@ -1,0 +1,44 @@
+# Dependencies
+node_modules
+
+# Next.js build output
+.next/
+out/
+
+# Environment variables
+.env*.local
+.env
+
+# Build artifacts
+tsconfig.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+
+# Logs
+*.log
+npm-debug.log*
+
+# Lock files (using pnpm)
+package-lock.json
+
+# Internal tool files
+.antigravitycli/
+AGENTS.md
+
+# v0 runtime files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+
+# Personal notes
+project_analysis.md
+
+# Placeholder / backup images
+public/placeholder*
+public/univ-logo-backup.png
+public/6qAHQ.png
