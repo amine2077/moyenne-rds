@@ -1,15 +1,13 @@
 <div align="center">
 
-# 📊 Moyenne Master
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0d14,50:1a2035,100:00d4aa&height=220&section=header&text=Moyenne%20Master&fontSize=60&fontColor=00d4aa&animation=fadeIn&fontAlignY=38&desc=Grade%20Calculator%20for%20Master%20Year%201%20%F0%9F%87%A9%F0%9F%87%BF&descAlignY=60&descSize=18&descColor=8a97b8)
 
-### Grade Calculator for Master Year 1 — Algeria
+<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="480" alt="pixel art sakura" />
 
-**Calculate your S1 & S2 averages, annual average, and subject ranking in seconds.**  
-Bilingual 🇬🇧 English / 🇩🇿 Arabic · Dark & Light mode · Mobile friendly
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-00d4aa?style=for-the-badge&logo=vercel)](https://moyenne-rds.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20App-00d4aa?style=for-the-badge)](https://moyenne-rds.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![Made in Algeria](https://img.shields.io/badge/Made%20in-Algeria%20🇩🇿-green?style=for-the-badge)](https://github.com/amine2077)
 
 </div>
 
@@ -30,13 +28,9 @@ Bilingual 🇬🇧 English / 🇩🇿 Arabic · Dark & Light mode · Mobile frie
 
 ---
 
-## 🖥️ Preview
-
-> Dark mode · English
-
-| S1 & Annual Average | S2 Subjects | Subject Ranking |
-|---|---|---|
-| Enter your S1 grade and see your annual average update in real time | Enter CC and Exam for each of the 8 S2 subjects | Subjects ranked from best to worst grade |
+<div align="center">
+<img src="https://media.giphy.com/media/l4FGnW5bFRHCk6Sm4/giphy.gif" width="480" alt="pixel art night city" />
+</div>
 
 ---
 
@@ -79,13 +73,6 @@ pnpm dev
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### Build for Production
-
-```bash
-pnpm build
-pnpm start
-```
-
 ---
 
 ## 🗂️ Project Structure
@@ -98,7 +85,7 @@ moyenne-rds/
 ├── hooks/                # Custom React hooks
 ├── lib/                  # Utility functions & calculator logic
 ├── public/
-│   └── index.html        # Main calculator app (standalone)
+│   └── index.html        # Main calculator app
 └── styles/               # Global CSS
 ```
 
@@ -116,17 +103,7 @@ moyenne-rds/
 
 ---
 
-## 🌍 Deployment
-
-This project is deployed on **Vercel**. Every push to `main` triggers an automatic deployment.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/amine2077/moyenne-rds)
-
----
-
 ## 🤝 Contributing
-
-Contributions are welcome! If you're a student and want to add your specialty's subjects or improve the app:
 
 1. Fork the repository
 2. Create your branch: `git checkout -b feature/my-feature`
@@ -136,16 +113,12 @@ Contributions are welcome! If you're a student and want to add your specialty's 
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:1a2035,100:0a0d14&height=120&section=footer)
 
 Made with ❤️ for Algerian students 🇩🇿
 
-⭐ If this helped you, give it a star!
+⭐ **If this helped you, leave a star!**
 
 </div>
