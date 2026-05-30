@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0d14,50:1a2035,100:00d4aa&height=220&section=header&text=Moyenne%20Master&fontSize=60&fontColor=00d4aa&animation=fadeIn&fontAlignY=38&desc=Grade%20Calculator%20for%20Master%20Year%201%20%F0%9F%87%A9%F0%9F%87%BF&descAlignY=60&descSize=18&descColor=8a97b8)
 
-<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="480" alt="pixel art sakura" />
+<img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="480" alt="pixel art autumn fall" />
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20App-00d4aa?style=for-the-badge)](https://moyenne-rds.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org)
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/l4FGnW5bFRHCk6Sm4/giphy.gif" width="480" alt="pixel art night city" />
+<img src="https://media.giphy.com/media/l4FGnW5bFRHCk6Sm4/giphy.gif" width="480" alt="pixel art mario coder" />
 </div>
 
 ---
